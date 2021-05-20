@@ -17,6 +17,7 @@ function App() {
           <Route path='/products' component={ Products } />
           <Route path='/sign-up' component={ SignUp } />
         </Switch>
+        <Home />
     </Router>
   );
 }
