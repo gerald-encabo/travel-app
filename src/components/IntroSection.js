@@ -6,7 +6,7 @@ import './IntroSection.scss';
 function IntroSection() {
   return (
     <div className='intro'>
-      <video src='/videos/video.mp4' autoPlay loop muted />
+      <video src={process.env.PUBLIC_URL + '/videos/video.mp4'} autoPlay loop muted />
       <h1>Adventure Awaits</h1>
       <p>What are you waiting for?</p>
       <div className='intro-btns'>
