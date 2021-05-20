@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.594ab8d2.chunk.css",
-    "main.js": "/home/static/js/main.ee003822.chunk.js",
-    "main.js.map": "/home/static/js/main.ee003822.chunk.js.map",
-    "runtime-main.js": "/home/static/js/runtime-main.4c2b1e70.js",
-    "runtime-main.js.map": "/home/static/js/runtime-main.4c2b1e70.js.map",
-    "static/js/2.3ada0ac2.chunk.js": "/home/static/js/2.3ada0ac2.chunk.js",
-    "static/js/2.3ada0ac2.chunk.js.map": "/home/static/js/2.3ada0ac2.chunk.js.map",
-    "index.html": "/home/index.html",
-    "static/css/main.594ab8d2.chunk.css.map": "/home/static/css/main.594ab8d2.chunk.css.map",
-    "static/js/2.3ada0ac2.chunk.js.LICENSE.txt": "/home/static/js/2.3ada0ac2.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "/home/static/media/img-3.0607eabf.png"
+    "main.css": "/travel-app/home/static/css/main.d4ce4ed7.chunk.css",
+    "main.js": "/travel-app/home/static/js/main.692e7c5c.chunk.js",
+    "main.js.map": "/travel-app/home/static/js/main.692e7c5c.chunk.js.map",
+    "runtime-main.js": "/travel-app/home/static/js/runtime-main.dc7055d7.js",
+    "runtime-main.js.map": "/travel-app/home/static/js/runtime-main.dc7055d7.js.map",
+    "static/js/2.3ada0ac2.chunk.js": "/travel-app/home/static/js/2.3ada0ac2.chunk.js",
+    "static/js/2.3ada0ac2.chunk.js.map": "/travel-app/home/static/js/2.3ada0ac2.chunk.js.map",
+    "index.html": "/travel-app/home/index.html",
+    "static/css/main.d4ce4ed7.chunk.css.map": "/travel-app/home/static/css/main.d4ce4ed7.chunk.css.map",
+    "static/js/2.3ada0ac2.chunk.js.LICENSE.txt": "/travel-app/home/static/js/2.3ada0ac2.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/travel-app/home/static/media/img-3.0607eabf.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4c2b1e70.js",
+    "static/js/runtime-main.dc7055d7.js",
     "static/js/2.3ada0ac2.chunk.js",
-    "static/css/main.594ab8d2.chunk.css",
-    "static/js/main.ee003822.chunk.js"
+    "static/css/main.d4ce4ed7.chunk.css",
+    "static/js/main.692e7c5c.chunk.js"
   ]
 }
