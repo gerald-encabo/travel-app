@@ -26,33 +26,33 @@ function Footer() {
                     <div class='footer-link-items'>
                         <h2>About Us</h2>
                         <Link to='/sign-up'>How it works</Link>
-                        <Link to='/'>Testimonials</Link>
-                        <Link to='/'>Careers</Link>
-                        <Link to='/'>Terms of Service</Link>
+                        <Link to='/sign-up'>Testimonials</Link>
+                        <Link to='/sign-up'>Careers</Link>
+                        <Link to='/sign-up'>Terms of Service</Link>
                     </div>
                     <div class='footer-link-items'>
                         <h2>Contact Us</h2>
-                        <Link to='/'>Contact</Link>
-                        <Link to='/'>Destinations</Link>
-                        <Link to='/'>Sponsorships</Link>
-                        <Link to='/'>Support</Link>
+                        <Link to='/sign-up'>Contact</Link>
+                        <Link to='/sign-up'>Destinations</Link>
+                        <Link to='/sign-up'>Sponsorships</Link>
+                        <Link to='/sign-up'>Support</Link>
                     </div>
                 </div>
 
                 <div className='footer-link-wrapper'>
                     <div class='footer-link-items'>
                         <h2>Social Media</h2>
-                        <Link to='/'>Instagram</Link>
-                        <Link to='/'>Facebook</Link>
-                        <Link to='/'>Youtube</Link>
-                        <Link to='/'>Twitter</Link>
+                        <Link to='/sign-up'>Instagram</Link>
+                        <Link to='/sign-up'>Facebook</Link>
+                        <Link to='/sign-up'>Youtube</Link>
+                        <Link to='/sign-up'>Twitter</Link>
                     </div>
                     <div class='footer-link-items'>
                         <h2>Policy</h2>
-                        <Link to='/'>Anti-spam Policy</Link>
-                        <Link to='/'>Booking Conditions</Link>
-                        <Link to='/'>Green Policy</Link>
-                        <Link to='/'>Privacy Notice</Link>
+                        <Link to='/sign-up'>Anti-spam Policy</Link>
+                        <Link to='/sign-up'>Booking Conditions</Link>
+                        <Link to='/sign-up'>Green Policy</Link>
+                        <Link to='/sign-up'>Privacy Notice</Link>
                     </div>
                 </div>
            </div>
