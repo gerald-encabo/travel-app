@@ -1,6 +1,6 @@
 import './App.scss';
 import React from 'react';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Switch, Route, Redirect } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Home from './components/pages/Home';
 import Products from './components/pages/Products';
@@ -12,12 +12,14 @@ function App() {
     <Router>
         <Navbar />
         <Switch>
-          <Route path='/home' exact component={ Home } />
+          <Route path='/travel-app' exact>
+            <Redirect to="/" />
+          </Route>
+          <Route path='/' exact component={ Home } />
           <Route path='/services' component={ Services } />
           <Route path='/products' component={ Products } />
           <Route path='/sign-up' component={ SignUp } />
         </Switch>
-        <Home />
     </Router>
   );
 }

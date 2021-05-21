@@ -27,7 +27,7 @@ function Navbar() {
     return (
       <nav className='navbar'>
           <div className='navbar-container'>
-              <Link to='/home' className='navbar-logo' onClick={handleCloseMenu}>
+              <Link to='/' className='navbar-logo' onClick={handleCloseMenu}>
                   Levart <i class="fas fa-plane-departure"></i>
               </Link>
               <div className='navbar-menu-icon' onClick={handleClick}>
@@ -35,7 +35,7 @@ function Navbar() {
               </div>
               <ul className={click ? 'navbar-menu active' : 'navbar-menu'}>
                   <li className='navbar-item'>
-                      <Link to='/home' className='navbar-links' onClick={handleCloseMenu}>Home</Link>
+                      <Link to='/' className='navbar-links' onClick={handleCloseMenu}>Home</Link>
                   </li>
                   <li className='navbar-item'>
                       <Link to='/services' className='navbar-links' onClick={handleCloseMenu}>Services</Link>
