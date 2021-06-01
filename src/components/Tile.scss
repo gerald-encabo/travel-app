@@ -50,7 +50,7 @@
       margin-left: 10px;
       padding: 6px 8px;
       max-width: calc((100%) - 60px);
-      font-size: 12px;
+      font-size: 0.75rem;
       font-weight: 700;
       color: $primary;
       background-color: #1f98f4;
@@ -78,7 +78,7 @@
     }
     &__item__text {
       color: #252e48;
-      font-size: 18px;
+      font-size: 1.125rem;
       line-height: 24px;
     }
 }
