@@ -1,6 +1,6 @@
 ## Travel React App
 
-This Levart travel agency app is named after travel in the opposite way (laverT). This react app is fully responsive on all devices including mobile phones and tablets. The main focus in this app is the Hook React (useState & useEffect), React Router, and the import SASS (or SCSS). I have also used quality video and images for design and visual purposes.
+This Levart travel agency app is named after travel in the opposite way (laverT). This react app is fully responsive on all devices including mobile phones and tablets. The main focus in this app is the Hook React (useState & useEffect), React Router, and the import SASS (or SCSS). I have also used quality video and images for design and visual purposes, which were uploaded from videvo.net pexels.com, pixabay.com and unsplash.com 
 
 Link:
 https://geraldencabo.github.io/travel-app/
